@@ -17,7 +17,7 @@ router.post("/sendEmail", async function (req, res) {
       requireTLS: true,
       auth: {
         user: "jy3961@gmail.com",
-        pass: "jy3961icaros702", 
+        pass: "계정비밀번호 입력", 
       },
     });
 
